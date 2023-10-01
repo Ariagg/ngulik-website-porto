@@ -8,7 +8,7 @@ tapi nannti saya bakalan pake ini jadi website porto juga. kita ikutin proses be
 
 
 
-###puh ajarin dong puh
+## puh ajarin dong puh. aku mah masih pemula
 
 
 
