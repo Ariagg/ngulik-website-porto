@@ -61,10 +61,10 @@ body {
     color: #00abf0;
 }
 
-.toggle-button {
-    position: absolute;
-    top: .51rem;
-    right: .1rem;
+.hamburger {
+    position: fixed;
+    top: 1.5rem;
+    right: 1rem;
     display: none;
     flex-direction: column;
     justify-content: space-between;
@@ -72,15 +72,16 @@ body {
     height: 17px;
 }
 
-.toggle-button .bar {
-    height: 3px;
+.hamburger .bar {
+    height: 2px;
     width: 100%;
     background-color: white;
     border-radius: 10px;
 }
 
+
 @media (max-width: 600px) {
-    .toggle-button {
+    .hamburger {
         display: flex;
     }
 
@@ -95,8 +96,11 @@ body {
     }
 
     .navbar-link ul {
-        width: 100%;
         flex-direction: column;
+        gap: 0.8rem;
+        position: fixed;
+        top: 1.6rem;
+        right: 2rem;
     }
 
     .navbar-link li {

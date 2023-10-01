@@ -1,4 +1,4 @@
-const toggleButton = document.getElementsByClassName('toggle-button')[0]
+const toggleButton = document.getElementsByClassName('hamburger')[0]
 const navbarLink = document.getElementsByClassName('navbar-link')[0]
 
 toggleButton.addEventListener('click', () => {
