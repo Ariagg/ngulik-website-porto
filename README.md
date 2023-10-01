@@ -14,7 +14,7 @@ tapi nannti saya bakalan pake ini jadi website porto juga. kita ikutin proses be
 
 ### LANGUAGE & TOOLS THAT I USED IN THIS PROJECT
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="VisualStudio" width="50" height="50"/> 
