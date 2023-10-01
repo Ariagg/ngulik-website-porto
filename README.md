@@ -1,10 +1,17 @@
 # BELAJAR BIKIN WEBSITE DARI PURE CSS
 
-Karena saya sudah terlalu banyak nganggur mending saya start ngulik dari dasar duluu.
+DISCLAIMER !!!:
 
-di project ini coba saya maksimalkan pure css ya ges ya
+**INI MAH DASAR AJA YA GES YA. GUA KAN NYOBA NYOBA DOANG PAKE PURE.**
 
-tapi nannti saya bakalan pake ini jadi website porto juga. kita ikutin proses belajarnya ya ges ya
+
+Karena sudah terlalu banyak nganggur mending start ngulik bikin webset pake pure css no framework framework.
+di project ini coba maksimalkan pake pure css ya ges ya
+tapi kedepannya kalo dirasa mentok bakal pake framework deh aweokaokeowake. tapi kita coba dl yah.
+soalnya pake ini buat porto pribadi jg. jadi ya mau gamau kan pasang framework ya ges ya kalo mau deployy xixixi
+tapi nanti sbelum pake framework di rilis pure css nya kok tenang aja :D
+
+kalo mau di download silahkan aja kan gweh mah betawi paling baik sedunia ☝️😎
 
 
 
