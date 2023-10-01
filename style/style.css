@@ -63,8 +63,8 @@ body {
 
 .hamburger {
     position: fixed;
-    top: 1.5rem;
-    right: 1rem;
+    top: 32px;
+    right: 50px;
     display: none;
     flex-direction: column;
     justify-content: space-between;
@@ -72,12 +72,12 @@ body {
     height: 17px;
 }
 
-.hamburger .bar {
+/* .hamburger .bar {
     height: 2px;
     width: 100%;
     background-color: white;
     border-radius: 10px;
-}
+} */
 
 
 @media (max-width: 600px) {
