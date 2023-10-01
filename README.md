@@ -8,9 +8,11 @@ tapi nannti saya bakalan pake ini jadi website porto juga. kita ikutin proses be
 
 
 
-##puh ajarin dong puh
+###puh ajarin dong puh
 
-### LANGUAGE & TOOLS THAT I USED
+
+
+### LANGUAGE & TOOLS THAT I USED IN THIS PROJECT
 
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/> 
