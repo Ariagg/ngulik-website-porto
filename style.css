@@ -33,7 +33,22 @@ body {
     font-weight: 600;
 }
 
-.navbar a {
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}
+
+.navbar-link ul {
+    display: flex;
+}
+
+.navbar-link li {
+    list-style: none;
+}
+
+.navbar-link li a {
     font-size: 18px;
     color: white;
     text-decoration: none;
@@ -41,9 +56,60 @@ body {
     margin-left: 35px;
 }
 
-.navbar a:hover,
-.navbar a.active     {
+.navbar-link li a:hover,
+.navbar-link li a.active     {
     color: #00abf0;
+}
+
+.toggle-button {
+    position: absolute;
+    top: .51rem;
+    right: .1rem;
+    display: none;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 20px;
+    height: 17px;
+}
+
+.toggle-button .bar {
+    height: 3px;
+    width: 100%;
+    background-color: white;
+    border-radius: 10px;
+}
+
+@media (max-width: 600px) {
+    .toggle-button {
+        display: flex;
+    }
+
+    .navbar-link{
+        display: none;
+        width: 100%;
+    }
+
+    .navbar {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .navbar-link ul {
+        width: 100%;
+        flex-direction: column;
+    }
+
+    .navbar-link li {
+        text-align: center;
+    }
+
+    .navbar-link li a {
+        padding: .5rem 1rem;
+    }
+
+    .navbar-link.active {
+        display: flex;
+    }
 }
 
 
