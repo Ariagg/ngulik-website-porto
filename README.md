@@ -1,6 +1,11 @@
 # BELAJAR BIKIN WEBSITE DARI PURE CSS
 
-Karena sudah terlalu banyak nganggur mending start ngulik cara bikin webset.
+note:
+  **INI MAH DASAR AJA YA GES YA. GUA KAN NYOBA NYOBA DOANG PAKE PURE**
+
+
+
+Karena sudah terlalu banyak nganggur mending start ngulik bikin webset pake p0ure css no framework framework.
 
 di project ini coba maksimalkan pake pure css ya ges ya
 
